@@ -11,11 +11,7 @@ I was a firefighter that liked programming. Now I'm studying Computer Science an
   
 <h2>My stats</h2>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TulioNPL&show_icons=true&theme=dark" alt="TulioNPL's Public Github Stats">
-</p>  
-
-<h2>My list of languages</h2>
-<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=TulioNPL&show_icons=true&theme=dark" alt="TulioNPL's Public Github Stats"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TulioNPL&layout=compact&theme=dark" alt="TulioNPL's favorite Languages">
 </p>  
   
