@@ -2,7 +2,7 @@
 
 
 <h2>About Me</h2>
-I was a firefighter that liked programming. Now I'm studying Computer Science and working as a full-stack blazor intern in Belo Horizonte, MG - Brazil.
+Former firefighter. Now I'm studying Computer Science and working as a full-stack blazor intern in Belo Horizonte, MG - Brazil.
 
 * ⚽Favorite soccer club: Clube Atlético Mineiro 🐓
 * 🎥Favorite movie: The Lord of the Rings
