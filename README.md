@@ -20,7 +20,7 @@ Former firefighter. Currently studying Computer Science and working as a full-st
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tulionpl&repo=Compilador_L_Lang&show_icons=true&theme=dark" alt="TulioNPL's favorite Languages">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tulionpl&repo=Breast_Cancer_Classifier_Software&show_icons=true&theme=dark" alt="TulioNPL's favorite Languages">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tulionpl&repo=blockchainTest&show_icons=true&theme=dark" alt="TulioNPL's favorite Languages">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tulionpl&repo=URI&show_icons=true&theme=dark" alt="TulioNPL's favorite Languages">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tulionpl&repo=BeecrowdSolutions&show_icons=true&theme=dark" alt="TulioNPL's favorite Languages">
 </p>
 <h2>Contact Me!</h2>
 <p align="center">
