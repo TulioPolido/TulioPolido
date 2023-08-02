@@ -25,6 +25,5 @@ Former firefighter. Currently studying Computer Science and working as a full-st
 <h2>Contact Me!</h2>
 <p align="center">
   <a href="mailto:tulionp.lopes@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-  <a href="https://github.com/TulioNPL"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
   <a href="https://in.linkedin.com/in/tulionpl"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
 </p>
