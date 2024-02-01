@@ -11,7 +11,7 @@ Former firefighter. Currently studying Computer Science and working as a full-st
   
 <h2>My stats</h2>
 <p align="center">
-<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=TulioNPL&show_icons=true&theme=dark" alt="Tulio Polido's Public Github Stats"> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=TulioNPL&show_icons=true&theme=dark" alt="Tulio Polido's Public Github Stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TulioNPL&layout=compact&theme=dark" alt="Tulio Polido's favorite Languages">
 </p>  
 
