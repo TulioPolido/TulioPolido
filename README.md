@@ -2,7 +2,7 @@
 
 
 <h2>About Me</h2>
-Former firefighter. Currently studying Computer Science and working as a full-stack blazor/XAF intern in Belo Horizonte, MG - Brazil.
+Former firefighter. Currently pursuing a master’s degree in Computer Science at the Federal University of Minas Gerais in Belo Horizonte, MG – Brazil, while working remotely as a Machine Learning Analyst for Instituto Eldorado in Campinas, SP.
 
 * ⚽Favorite soccer club: Clube Atlético Mineiro 🐓
 * 🎥Favorite movie: The Lord of the Rings
